@@ -7,3 +7,5 @@ I decided that i wan't to host a RUST server on Windows machine and i figured ou
 
 All server files will be located at C:/ServerWrapper/server
 I am not responsible if this breaks your machine it is still very much a WIP.
+
+THIS PROJECT WILL NO LONGER BE UPDATED CONSIDER CHECKING OUT: https://github.com/8qBITs/RustServerManager/
